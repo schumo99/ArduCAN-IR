@@ -1,0 +1,6 @@
+Changes
+
+Version 1.2:
+- Fix for automatic calibration to wotk for all sensors
+- After automatic calibration, new sensitivity result is sent automatically to gateway 
+- wheel counting option added
